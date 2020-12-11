@@ -1,3 +1,9 @@
+Name: Mason Moore
+Student ID: 2370658
+Email: masmoore@chapman.edu
+Class: CPSC 298-03
+Assignment: cars
+
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
